@@ -1,2 +1,2 @@
 # School-Projects
-Python projects made in school
+Python project to guess the country by its flag
