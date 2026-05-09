@@ -37,7 +37,7 @@ def get_score(player_name):
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="GameSphere@123",
+        password="GameSphere@1234",
         database="game_db",
         use_pure=True
     )
